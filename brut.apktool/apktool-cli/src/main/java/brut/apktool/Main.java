@@ -36,6 +36,7 @@ import java.util.logging.*;
 public class Main {
     public static void main(String[] args) throws IOException, InterruptedException, BrutException {
 //        args = new String[]{"d","/home/li/Documents/Job/AnalysisApk/source/小猴英语.apk","-o","/home/li/Documents/Job/AnalysisApk/source/小猴英语_out"};
+
         // headless
         System.setProperty("java.awt.headless", "true");
 
